@@ -1,0 +1,9 @@
+**/*.meta
+**/*.unity
+Resources
+**/fit/**
+**/models/**
+**/training_checkpoints/**
+!**/models/.gitkeep
+!**/logs/fit/.gitkeep
+!**/training_checkpoints/.gitkeep
